@@ -88,3 +88,7 @@
 	path = vendor/tree-sitter-racket
 	url = https://github.com/tautologico/tree-sitter-racket.git
 	shallow = true
+[submodule "vendor/tree-sitter-r"]
+	path = vendor/tree-sitter-r
+	url = https://github.com/r-lib/tree-sitter-r.git
+	shallow = true
